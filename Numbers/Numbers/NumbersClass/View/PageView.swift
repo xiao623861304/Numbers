@@ -101,5 +101,7 @@ class PageView: UIScrollView {
         let rect = CGRect(x: CGFloat(page) * pageSize.width, y: 0, width: pageSize.width, height: pageSize.height)
         
         self.scrollRectToVisible(rect, animated: animated)
+        
+        print(11)
     }
 }
