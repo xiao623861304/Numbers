@@ -102,6 +102,5 @@ class PageView: UIScrollView {
         
         self.scrollRectToVisible(rect, animated: animated)
         
-//        print(11)
     }
 }
