@@ -102,5 +102,7 @@ class PageView: UIScrollView {
         
         self.scrollRectToVisible(rect, animated: animated)
         //kadk
+        
+        //we changed
     }
 }
