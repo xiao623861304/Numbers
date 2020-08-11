@@ -104,5 +104,9 @@ class PageView: UIScrollView {
         //kadk
         
         //we changed
+        
+        // new changed
+        
+        // new changed 2
     }
 }
