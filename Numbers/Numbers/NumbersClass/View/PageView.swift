@@ -25,7 +25,7 @@ class PageView: UIScrollView {
     fileprivate lazy var totalNumLable: UILabel = {
         let label = UILabel()
         label.font = UIFont.systemFont(ofSize: 17)
-        label.textColor = UIColor.orange
+        label.textColor = UIColor.red
         label.textAlignment = .center
         return label
     }()
